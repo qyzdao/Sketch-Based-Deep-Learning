@@ -26,7 +26,7 @@ A resource repository for sketch based deep learning papers and work.
 **The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies (TOG, SIGGRAPH 2016)** [[Link]](http://sketchy.eye.gatech.edu/)
 
 <p align="center">
-<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/sketchydatabase.png" height="250">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/sketchydatabase.png" height="200">
 </p>
 
 
@@ -41,11 +41,11 @@ A resource repository for sketch based deep learning papers and work.
 **SketchyScene: Richly-Annotated Scene Sketches (ECCV 2018)** [[Link]](https://sketchyscene.github.io/SketchyScene/)
 
 <p align="center">
-<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/sketchyscene.png" height="250">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/sketchyscene.png" height="200">
 </p>
 
 
-**Universal Sketch Perceptual Grouping (ECCV 2018)**[[Paper]](https://homepages.inf.ed.ac.uk/thospeda/papers/li2018universalGrouping.pdf)
+**Universal Sketch Perceptual Grouping (ECCV 2018)** [[Paper]](https://homepages.inf.ed.ac.uk/thospeda/papers/li2018universalGrouping.pdf)
 
 <p align="center">
 <img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/spg.png" height="150">
@@ -132,7 +132,7 @@ A resource repository for sketch based deep learning papers and work.
 **A Neural Representation of Sketch Drawings (ICLR 2018)** [[Paper]](https://arxiv.org/abs/1704.03477)
 
 <p align="center">
-<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/sketchrnn.png" height="200">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/sketchrnn.png" height="250">
 </p>
 
 
@@ -304,7 +304,7 @@ Sketch to Normal Maps. Sketch to 3D Model.
 **Generalising Fine-Grained Sketch-Based Image Retrieval (CVPR 2019)** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pang_Generalising_Fine-Grained_Sketch-Based_Image_Retrieval_CVPR_2019_paper.pdf)
 
 <p align="center">
-<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/finegrainedsketchretrieval.png" height="200">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/finegrainedsketchretrieval.png" height="250">
 </p>
 
 
