@@ -89,6 +89,14 @@ A resource repository for sketch based deep learning papers and work.
 
 
 
+**Language-based Colorization of Scene Sketches (TOG, SIGGRAPH Asia 2019)** [[Link]](https://sketchyscene.github.io/SketchySceneColorization/)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/languagecolo.png" height="200">
+</p>
+
+
+
 ## Stylization
 
 **Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup (TOG, SIGGRAPH 2016)** [[Link]](https://esslab.jp/~ess/en/research/sketch/)
@@ -148,6 +156,7 @@ A resource repository for sketch based deep learning papers and work.
 </p>
 
 
+
 ## Sketch to 3D Representation
 
 Sketch to Normal Maps. Sketch to 3D Model.
@@ -198,10 +207,31 @@ Sketch to Normal Maps. Sketch to 3D Model.
 
 ## Realistic
 
+**SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis (CVPR 2018)** [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_SketchyGAN_Towards_Diverse_CVPR_2018_paper.pdf)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/sketchygan.png" height="150">
+</p>
+
+
+**Sketch-R2CNN: An Attentive Network for Vector Sketch Recognition (2018)** [[Paper]](https://arxiv.org/abs/1811.08170)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/sketchr2cnn.png" height="50">
+</p>
+
+
 **Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation (ICCV 2019)** [[Link]](https://arnabgho.github.io/iSketchNFill/)
 
 <p align="center">
 <img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/cupcake.gif" height="200">
+</p>
+
+
+**Deep Zero-Shot Learning for Scene Sketch (ICIP 2019)** [[Paper]](https://arxiv.org/abs/1905.04510)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/0shotsketch.png" height="200">
 </p>
 
 
