@@ -92,7 +92,7 @@ A resource repository for sketch based deep learning papers and work.
 **Language-based Colorization of Scene Sketches (TOG, SIGGRAPH Asia 2019)** [[Link]](https://sketchyscene.github.io/SketchySceneColorization/)
 
 <p align="center">
-<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/languagecolo.png" height="200">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/languagecolo.png" height="250">
 </p>
 
 
@@ -217,7 +217,7 @@ Sketch to Normal Maps. Sketch to 3D Model.
 **Sketch-R2CNN: An Attentive Network for Vector Sketch Recognition (2018)** [[Paper]](https://arxiv.org/abs/1811.08170)
 
 <p align="center">
-<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/sketchr2cnn.png" height="50">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/sketchr2cnn.png" height="100">
 </p>
 
 
@@ -231,7 +231,7 @@ Sketch to Normal Maps. Sketch to 3D Model.
 **Deep Zero-Shot Learning for Scene Sketch (ICIP 2019)** [[Paper]](https://arxiv.org/abs/1905.04510)
 
 <p align="center">
-<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/0shotsketch.png" height="200">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/0shotsketch.png" height="150">
 </p>
 
 
