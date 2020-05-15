@@ -125,6 +125,13 @@ A resource repository for sketch based deep learning papers and work.
 </p>
 
 
+**Deep Line Art Video Colorization with a Few References (2020)** [[Paper]](https://arxiv.org/abs/2003.10685)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/videocolo.png" height="250">
+</p>
+
+
 
 ## Stylization
 
