@@ -5,6 +5,7 @@ A resource repository for sketch based deep learning papers and work.
 
 ## Table of Contents
 
+- [Dataset](https://github.com/qyzdao/Sketch-Based-Deep-Learning#dataset)
 - [Colorization](https://github.com/qyzdao/Sketch-based-DL/blob/master/README.md#colorization)
 - [Stylization](https://github.com/qyzdao/Sketch-based-DL/blob/master/README.md#stylization)
 - [3D Representation](https://github.com/qyzdao/Sketch-Based-Deep-Learning#sketch-to-3d-representation)
@@ -59,6 +60,19 @@ A resource repository for sketch based deep learning papers and work.
 <img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/opensketch.png" height="250">
 </p>
 
+
+**EmoG: Supporting the Sketching of Emotional Expressions for Storyboarding (CHI on Human Factors in Computing Systems, 2020)** [[Link]](https://facex.idvxlab.com/)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/facex.png" height="200">
+</p>
+
+
+**Building a Manga Dataset "Manga109" with Annotations for Multimedia Applications (IEEE MultiMedia, 2020)** [[Paper]](https://arxiv.org/abs/2005.04425) [[Link]](http://www.manga109.org/ja/index.html)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/manga109.png" height="200">
+</p>
 
 
 
