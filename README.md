@@ -117,6 +117,11 @@ A resource repository for sketch based deep learning papers and work.
 </p>
 
 
+**Automatic Colorization of Anime Sketch Image** [[Link]](https://github.com/ktaebum/AttentionedDeepPaint)
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/autocolo.png" height="250">
+</p>
+
 
 **Language-based Colorization of Scene Sketches (TOG, SIGGRAPH Asia 2019)** [[Link]](https://sketchyscene.github.io/SketchySceneColorization/)
 
@@ -129,6 +134,13 @@ A resource repository for sketch based deep learning papers and work.
 
 <p align="center">
 <img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/videocolo.png" height="250">
+</p>
+
+
+**Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence (CVPR, 2020)** [[Paper]](https://arxiv.org/abs/2005.05207)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/refercolo.png" height="250">
 </p>
 
 
