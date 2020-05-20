@@ -75,6 +75,13 @@ A resource repository for sketch based deep learning papers and work.
 </p>
 
 
+**SPARE3D: A Dataset for SPAtial REasoning on Three-View Line Drawings (CVPR, 2020)** [[Paper]](https://arxiv.org/abs/2003.14034)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/3dlinedrawing.png" height="250">
+</p>
+
+
 
 ## Colorization
 
@@ -347,6 +354,12 @@ Sketch to Normal Maps. Sketch to 3D Model.
 <img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/finegrainedsketchretrieval.png" height="250">
 </p>
 
+
+**SketchyCOCO: Image Generation from Freehand Scene Sketches (CVPR, 2020)** [[Paper]](https://arxiv.org/pdf/2003.02683.pdf)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/sketchycoco.png" height="150">
+</p>
 
 
 
