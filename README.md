@@ -211,6 +211,13 @@ A resource repository for sketch based deep learning papers and work.
 </p>
 
 
+**Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt (CVPR, 2020)** [[Paper]](https://arxiv.org/abs/2005.09159)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/sketchbert.png" height="250">
+</p>
+
+
 
 ## Sketch to 3D Representation
 
