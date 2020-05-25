@@ -367,6 +367,8 @@ Sketch to Normal Maps. Sketch to 3D Model.
 
 (Non DL work, but resourceful)
 
+**A Survey on Sketch Based Content Creation: from the Desktop to Virtual and Augmented Reality (Eurographics, 2020)** [[Paper]](https://diglib.eg.org/bitstream/handle/10.1111/cgf14024/v39i2pp757-780.pdf?sequence=1&isAllowed=y)
+
 **Why Do Line Drawings Work? A Realism Hypothesis (Perception 2020)** [[Paper]](https://arxiv.org/abs/2002.06260)
 
 **Aaron Hertzmann's Blog** [[Link]](https://aaronhertzmann.com/)
@@ -377,6 +379,12 @@ Sketch to Normal Maps. Sketch to 3D Model.
 
 
 **SketchX Lab** [[Link]](http://sketchx.eecs.qmul.ac.uk/)
+
+**SYNLA Dataset (Synthetic Line Art Dataset)** [[Link]](https://github.com/bloc97/SYNLA-Dataset)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/synladataset.png" height="200">
+</p>
 
 
 ## Disclaimer
