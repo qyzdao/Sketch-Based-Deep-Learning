@@ -281,6 +281,13 @@ Sketch to Normal Maps. Sketch to 3D Model.
 </p>
 
 
+**Contour-based 3D Modeling through Joint Embedding of Shapes and Contours (I3D 2020)** [[Paper]](https://dl.acm.org/doi/fullHtml/10.1145/3384382.3384518)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/contour3dmodel.png" height="250">
+</p>
+
+
 
 ## Realistic
 
