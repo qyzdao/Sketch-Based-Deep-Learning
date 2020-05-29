@@ -116,6 +116,13 @@ A resource repository for sketch based deep learning papers and work.
 </p>
 
 
+**User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks (ACM Multimedia, 2018)** [[Paper]](https://arxiv.org/abs/1808.03240)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/colorMM18.png" height="300">
+</p>
+
+
 
 **Tag2pix: Line art colorization using text tag with secat and changing loss (ICCV 2019)** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf)
 
@@ -198,6 +205,13 @@ A resource repository for sketch based deep learning papers and work.
 
 <p align="center">
 <img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/im2pencil.png" height="250">
+</p>
+
+
+**Adversarial Colorization Of Icons Based On Structure And Color Conditions (2019)** [[Paper]](https://arxiv.org/abs/1910.05253)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/iconcolor.png" height="250">
 </p>
 
 
