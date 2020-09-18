@@ -261,6 +261,13 @@ Sketch to Normal Maps. Sketch to 3D Model.
 </p>
 
 
+### Novel View
+**Lifting Freehand Concept Sketches into 3D (SIGGRAPH Asia, 2020)** [[Link]](https://ns.inria.fr/d3/Lift3D/)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/freehand.png" height="250">
+</p>
+
 
 ### 3D Model
 
@@ -380,6 +387,18 @@ Sketch to Normal Maps. Sketch to 3D Model.
 
 <p align="center">
 <img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/sketchycoco.png" height="150">
+</p>
+
+**BézierSketch: A generative model for scalable vector sketches (ECCV, 2020)** [[Paper]](https://arxiv.org/abs/2007.02190)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/beziersketch.png" height="200">
+</p>
+
+**Pixelor: A Competitive Sketching AI Agent. So you think you can beat me? (SIGGRAPH Asia, 2020)** [[Link]](https://github.com/dasayan05/neuralsort-siggraph)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/sketch_agent.png" height="200">
 </p>
 
 
