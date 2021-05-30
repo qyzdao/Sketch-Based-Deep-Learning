@@ -247,7 +247,7 @@ A resource repository for sketch based deep learning papers and work.
 **Creative Sketch Generation (ICLR 2021)** [[Link]](https://songweige.github.io/projects/creative_sketech_generation/home.html)
 
 <p align="center">
-<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/doodlergan.png" height="250">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/doodlergan.png" height="150">
 </p>
 
 
@@ -424,6 +424,8 @@ Sketch to Normal Maps. Sketch to 3D Model.
 - Why Edge Detection Doesn’t Explain Line Drawing [[Link]](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
 
 - Apparent Ridges, Edges, and Perception of Line Drawing [[Link]](https://aaronhertzmann.com/2020/04/21/ar-vs-cs.html)
+
+- Why Does Line Drawing Work? A Realism Hypothesis [[Link]](https://aaronhertzmann.com/2021/05/13/why-does-line-drawing-work.html)
 
 **SketchX Lab** [[Link]](http://sketchx.eecs.qmul.ac.uk/)
 
