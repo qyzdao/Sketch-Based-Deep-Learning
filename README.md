@@ -238,6 +238,17 @@ A resource repository for sketch based deep learning papers and work.
 <img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/sketchbert.png" height="250">
 </p>
 
+**A Benchmark for Rough Sketch Cleanup (SIGGRAPH Asia 2020)** [[Link]](https://cragl.cs.gmu.edu/sketchbench/)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/benchmark4sketch.png" height="250">
+</p>
+
+**Creative Sketch Generation (ICLR 2021)** [[Link]](https://songweige.github.io/projects/creative_sketech_generation/home.html)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/doodlergan.png" height="250">
+</p>
 
 
 ## Sketch to 3D Representation
@@ -405,20 +416,26 @@ Sketch to Normal Maps. Sketch to 3D Model.
 
 ## Others 
 
-(Non DL work, but resourceful)
+### Researchers & Labs
+(Random order)
 
-**A Survey on Sketch Based Content Creation: from the Desktop to Virtual and Augmented Reality (Eurographics, 2020)** [[Paper]](https://diglib.eg.org/bitstream/handle/10.1111/cgf14024/v39i2pp757-780.pdf?sequence=1&isAllowed=y)
-
-**Why Do Line Drawings Work? A Realism Hypothesis (Perception 2020)** [[Paper]](https://arxiv.org/abs/2002.06260)
-
-**Aaron Hertzmann's Blog** [[Link]](https://aaronhertzmann.com/)
+**Dr. Aaron Hertzmann's Blog** [[Link]](https://aaronhertzmann.com/)
 
 - Why Edge Detection Doesn’t Explain Line Drawing [[Link]](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
 
 - Apparent Ridges, Edges, and Perception of Line Drawing [[Link]](https://aaronhertzmann.com/2020/04/21/ar-vs-cs.html)
 
-
 **SketchX Lab** [[Link]](http://sketchx.eecs.qmul.ac.uk/)
+
+**Dr. Changqing Zou** [[Link]](https://changqingzou.weebly.com/)
+
+**Dr. Yulia Gryaditskaya** [[Link]](https://yulia.gryaditskaya.com/)
+
+### Misc
+
+**A Survey on Sketch Based Content Creation: from the Desktop to Virtual and Augmented Reality (Eurographics, 2020)** [[Paper]](https://diglib.eg.org/bitstream/handle/10.1111/cgf14024/v39i2pp757-780.pdf?sequence=1&isAllowed=y)
+
+**Why Do Line Drawings Work? A Realism Hypothesis (Perception 2020)** [[Paper]](https://arxiv.org/abs/2002.06260)
 
 **SYNLA Dataset (Synthetic Line Art Dataset)** [[Link]](https://github.com/bloc97/SYNLA-Dataset)
 
