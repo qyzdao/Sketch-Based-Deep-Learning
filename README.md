@@ -250,6 +250,12 @@ A resource repository for sketch based deep learning papers and work.
 <img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/doodlergan.png" height="150">
 </p>
 
+**General Virtual Sketching Framework for Vector Line Art (SIGGRAPH 2021)** [[Link]](https://markmohr.github.io/virtual_sketching/)
+
+<p align="center">
+<img src="https://github.com/qyzdao/Sketch-based-DL/blob/master/images/linevector.png" height="200">
+</p>
+
 
 ## Sketch to 3D Representation
 
